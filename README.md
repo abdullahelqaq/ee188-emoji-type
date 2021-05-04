@@ -24,5 +24,7 @@ npm start
 
 [Project Specification for M1](https://www.notion.so/M1-TinyType-the-Implementation-02f677ef9b6a4ca9b0e43042500c3bef)
 
+[Project Specification for M2](https://www.notion.so/M2-EmojiType-f948dc5c01284d1782c30cb41f4fda5b)
+
 ## External Resources
 I followed this [tutorial on Drawing in React](https://pspdfkit.com/blog/2017/how-to-build-free-hand-drawing-using-react/)
